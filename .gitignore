@@ -1,3 +1,2 @@
-/img/**/*.jpg
-/img/**/*.png
-/img/**/*.jpeg
+/img/*
+!/img/index.php
